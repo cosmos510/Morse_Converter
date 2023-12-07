@@ -7,7 +7,10 @@ Features included:
 2. convert morse code to text
 3. Play morse code.
 
-![](https://github.com/cosmos510/Morse_Converter/blob/main/GIF_morse.mov)
+
+https://github.com/cosmos510/Morse_Converter/assets/149656366/d6803fb1-860e-4b35-9648-5415bb8ca38f
+
+
 
 
 ## Installing
